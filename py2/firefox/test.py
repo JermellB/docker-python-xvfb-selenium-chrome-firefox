@@ -1,4 +1,3 @@
-from __future__ import print_function
 from selenium import webdriver
 
 driver = webdriver.Firefox()
